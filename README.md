@@ -13,10 +13,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
-## 🤳 Connect With Me
-
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://www.linkedin.com/in/ciprian-ghiur-440777139/">][linkedin]
-
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
